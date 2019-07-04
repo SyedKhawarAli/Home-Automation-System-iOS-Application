@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Home Automation System iOS App
+iOS application to control and manage home automation system.
 
-You can use the [editor on GitHub](https://github.com/SyedKhawarAli/Home-Automation-System-iOS-Application/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Screenshots
+<img src="https://github.com/SyedKhawarAli/Home-Automation-System-iOS-Application/blob/master/Screenshots/iotect%20tab%201.png?raw=true" width="25%" height="25%" title="Bed Room"><img src="https://github.com/SyedKhawarAli/Home-Automation-System-iOS-Application/blob/master/Screenshots/iotect%20tab%202.png?raw=true" width="25%" height="25%" title="Drawing Room">
+<img src="https://github.com/SyedKhawarAli/Home-Automation-System-iOS-Application/blob/master/Screenshots/iotect%20tab%203.png?raw=true" width="25%" height="25%" title="Wash Room">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Built With
 
-### Markdown
+* [Xcode](https://developer.apple.com/xcode/) - IDE used 
+* [Swift](https://swift.org/) - Language used
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SyedKhawarAli/Home-Automation-System-iOS-Application/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Credits
+Apple.Inc 
